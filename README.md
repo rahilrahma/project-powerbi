@@ -98,11 +98,11 @@ Provides deeper insight into **stock behavior and market sentiment**.
 
 ## 📷 Dashboard Screenshots
 
-![company dashboard](Company_dashboard.png)
+![company dashboard](screenshots/Company_dashboard.png)
 
-![stock market dashboard](Market_dashboard.png)
+![stock market dashboard](screenshots/Market_dashboard.png)
 
-![candlestick dashboard](Candlestick_dashboard.png)
+![candlestick dashboard](screenshots/Candlestick_dashboard.png)
 
-![connections](Connections_powebi.png)
+![connections](screenshots/Connections_powebi.png)
 
