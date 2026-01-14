@@ -104,5 +104,5 @@ Provides deeper insight into **stock behavior and market sentiment**.
 
 ![candlestick dashboard](screenshots/Candlestick_dashboard.png)
 
-![connections](screenshots/Connections_powebi.png)
+![connections](screenshots/Connections_powerbi.png)
 
